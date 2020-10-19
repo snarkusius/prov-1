@@ -1,5 +1,5 @@
 function siSameuser(objekt1,objekt2) {
-    return objekt1.email == objekt2.email
+    return objekt1.email === objekt2.email
 }
 
 //test
